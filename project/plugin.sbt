@@ -1,1 +1,1 @@
-addSbtPlugin("org.wartremover" % "sbt-wartremover" % "3.5.2")
+addSbtPlugin("org.wartremover" % "sbt-wartremover" % "3.5.3")
