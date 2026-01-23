@@ -10,9 +10,9 @@ jobs:
     strategy:
       matrix:
         include:
-          - java: 8
+          - java: 17
             os: ubuntu-latest
-          - java: 8
+          - java: 17
             os: windows-latest
           - java: 25
             os: ubuntu-latest
